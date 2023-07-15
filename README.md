@@ -1,1 +1,1 @@
-![Uploading poster.png…]()
+<img src="poster.png"/>
